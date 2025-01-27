@@ -1,2 +1,2 @@
 # Go Program
-https://<your-username>.github.io/comp423-course-notes/
+https://sisaxena42.github.io/comp423-course-notes/tutorials/go-setup/
